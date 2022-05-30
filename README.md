@@ -13,13 +13,17 @@ Only dApp transactions. This will not automatically confirm if you are sending A
 
 If you are an ape/degen and need to sign dApp transactions very quickly during NFT releases, and you accept the risk of not verifying the amount of ADA being sent/TX details.
 
+**Comatibility?**
+
+This has only been tested using Google Chrome + Nami extension
+
 **Should I use this?**
 
 Probably not. This skips all best practices (Verifying the amount, TX details before spending your funds) and should only be used if you know what you are doing. You accept all responsibility for using this script, USE AT YOUR OWN RISK!
 
 **Why AutoIT and why don't you compile/release this as an exe file?**
 
-Because then you would have no idea what this program is doing in the background. This is being released as simple script source code for transparency. You can download the necessary software and compile it yourself in 5-10 minutes.
+Because then you would have no idea what this program is doing in the background. This is being released as simple script/source code for transparency. You can download the necessary software and compile it yourself in 5-10 minutes.
 
 
 
