@@ -2,6 +2,7 @@
 Author: Chunky Monkey
 
 **What is this?**
+
 Auto-Ape is a simple, easy to modify script that can be compiled into an .exe file. When launched, auto-ape will run in the background and wait until the Nami TX confirmation window appears. This script will attempt to automatically enter your spending password and click confirm as quickly as possible.
 
 Q: What can it be used for?
