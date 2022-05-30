@@ -22,7 +22,8 @@ Probably not. This skips all best practices (Verifying the amount, TX details be
 Because then you would have no idea what this program is doing in the background. This is being released as simple script source code for transparency. You can download the necessary software and compile it yourself in 5-10 minutes.
 
 
-**How to use:**
+
+**--- How to use: ---**
 
 1. Download and install the latest (full) version of AutoIT https://www.autoitscript.com/site/: (direct download link here:) https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.zip
 2. Download AutoApeV1.au3 from this repository and save it into a folder of your choice. You can also right click this link https://raw.githubusercontent.com/ChunkyMonkey22/AutoApe/main/AutoApeV1.au3 and click "save as" in your browser.
