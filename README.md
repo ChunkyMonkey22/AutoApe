@@ -7,7 +7,7 @@ Auto-Ape is a simple, easy to modify script that can be compiled into an .exe fi
 
 **What can it be used for?**
 
-Only dApp transactions. This will not automatically confirm if you are sending ADA. This script assumes you have already setup wallet collateral, and that you have enough funds in your wallet to complete transactions. ** has not been tested with multiple browsers yet **
+Only dApp smart contract transactions. This will not automatically confirm if you are sending ADA directly to another address. This script assumes you have already setup wallet collateral, and that you have enough funds in your wallet to complete transactions. ** has not been tested with multiple browsers yet **
 
 **Why?**
 
