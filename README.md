@@ -15,7 +15,7 @@ If you are an ape/degen and need to sign dApp transactions very quickly during N
 
 **Comatibility?**
 
-This has only been tested using Google Chrome + Nami extension
+This has only been tested using Google Chrome + Nami extension. Windows Operating System Only at this time, mobile not supported
 
 **Should I use this?**
 
