@@ -36,7 +36,7 @@ REMINDER: USE AT YOUR OWN RISK. YOU ACCEPT ALL RESPONSIBILITY FOR USING THIS SCR
 5. Click Tools > Compile
 6. Click Tools > Build - This will compile the script and save an .exe file into the same folder where you saved AutoApeV1.au3
 7. Double Click the AutoApeV1.exe file, this will launch auto-ape - there should be an icon in your system tray for the running process. Click the icon once to pause/unpause the script, or Right Click the icon and click Exit at any time.
-8. Open jpg.store and click "buy" on any CNFT. As soon as NAMI launches the TX confirmation window, auto-ape should try to automatically click and enter your spending password. The transaction will not finish because we left the generic password in Step 4 of this guide, but we want to test this first (without actually submitting the transaction) to verify that the script is working.
+8. Open jpg.store and click "buy" on any CNFT. As soon as NAMI launches the TX confirmation window, auto-ape should try to automatically click and enter your spending password. The transaction will not finish because we left the generic password in Step 4, but we want to test this first (without actually submitting the transaction) to verify that the script is working.
 9. Go back to your SciTE Script Editor, open AutoApeV1.au3, and edit the first line of code with your actual wallet spending password. Click Tools > Compile and then Tools > Build
 10. Double Click the updated AutoApeV1.exe to run your production version (Make sure your close all running instances of AutoApeV1.exe in your system tray to avoid unpredictable behavior. Running multiple versions at the same time could cause issues!)
 
