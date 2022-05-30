@@ -6,7 +6,7 @@ A: Auto-Ape is a simple, easy to modify script that can be compiled into an .exe
 
 How to use:
 
-1. Download and install the latest (full) version of AutoIT: https://www.autoitscript.com/site/autoit/downloads/
+1. Download and install the latest (full) version of AutoIT: https://www.autoitscript.com/site/autoit/downloads/ (direct link here:) https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.zip
 2. Download AutoApeV1.au3 from this repository and save it into a folder of your choice (Click the AutoApeV1.au3 file and then click the "RAW" button, save the file). You can also right click this link https://raw.githubusercontent.com/ChunkyMonkey22/AutoApe/main/AutoApeV1.au3 and click "save as" in your browser.
 3. Launch AutoIT SciTE Script Editor. Open the AutoApeV1.au3 file
 4. The first line in the AutoApeV1.au3 contains a generic wallet password. We are going to edit this later, but leave it alone for now
