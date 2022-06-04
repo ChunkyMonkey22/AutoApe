@@ -1,5 +1,5 @@
 # AutoApe Nami Script
-Author: Chunky Monkey
+Author: Chunky Monkey (Twitter: @MNKYStakePool)
 
 **What is this?**
 
@@ -13,7 +13,7 @@ Only dApp smart contract transactions. This will not automatically confirm if yo
 
 If you are an ape/degen and need to sign dApp transactions very quickly during NFT releases, and you accept the risk of not verifying the amount of ADA being sent/TX details.
 
-**Comatibility?**
+**Compatibility?**
 
 This has only been tested using Google Chrome + Nami extension. Windows Operating System Only at this time, mobile not supported
 
