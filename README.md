@@ -11,7 +11,7 @@ Only dApp smart contract transactions. This will not automatically confirm if yo
 
 **Why?**
 
-If you are an ape/degen and need to sign dApp transactions very quickly during NFT releases, and you accept the risk of not verifying the amount of ADA being sent/TX details.
+If you are an ape/degen and need to sign dApp transactions very quickly during NFT releases, and you accept the risk of not verifying the amount of ADA being sent/TX details. Also extremely useful for saving time if you spend a lot of time buying/selling and updating prices on marketplaces such as JPG
 
 **Compatibility?**
 
